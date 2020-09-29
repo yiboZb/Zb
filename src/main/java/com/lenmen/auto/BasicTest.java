@@ -20,6 +20,7 @@ public class BasicTest {
            //忽略浏览器设置为true。取消IE安全设置
            capabilities.setCapability(InternetExplorerDriver.INTRODUCE_FLAKINESS_BY_IGNORING_SECURITY_DOMAINS,true);
            //忽略浏览器的缩放设置
+           //
        }
 
    }
