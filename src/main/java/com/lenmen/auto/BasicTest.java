@@ -21,6 +21,8 @@ public class BasicTest {
            capabilities.setCapability(InternetExplorerDriver.INTRODUCE_FLAKINESS_BY_IGNORING_SECURITY_DOMAINS,true);
            //忽略浏览器的缩放设置
            //
+           //零三零大家
+           String a = null;
        }
 
    }
