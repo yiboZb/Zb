@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d16572d7-ad75-4c3c-920f-b05f12429ebb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lenmen/auto/BasicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lenmen/auto/BasicTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +72,14 @@
       <option name="presentableId" value="Default" />
       <updated>1601342667465</updated>
     </task>
+    <task id="LOCAL-00001" summary="添加方法1">
+      <created>1601348651298</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601348651298</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,5 +92,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加方法1" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加方法1" />
   </component>
 </project>
