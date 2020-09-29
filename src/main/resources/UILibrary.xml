@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pages>
+	<page name="com.lemon.phoenix.tester.RegisterPage" desc="注册页面">
+	   <locator by="id" value="mobilephone" desc="账户输入框"> </locator>
+	   <locator by="id" value="password" desc="输入密码"> </locator>
+	   <locator by="id" value="pwdconfirm" desc="确认输入密码"> </locator>
+	   <locator by="id" value="signup-button" desc="注册按钮"> </locator>
+	   <locator by="className" value="tips" desc="提示内容信息"> </locator>
+	</page>
+		<page name="com.lemon.phoenix.tester.LoginPage" desc="登录页面">
+	   <locator by="id" value="mobilephone" desc="账户输入框"> </locator>
+	   <locator by="id" value="password" desc="输入密码"> </locator>
+	   <locator by="id" value="login" desc="登录按钮"> </locator>
+	   <locator by="id" value="reset" desc="重置按钮"> </locator>	  
+	</page>
+	<!-- 百度page -->
+	<page name="two.test.testBaidu"  desc="百度首页">
+	<locator by="name" value="wd" desc="百度搜索框"></locator>
+	<locator by="id" value="su" desc="百度一下"></locator>
+	</page>
+</pages>
